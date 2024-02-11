@@ -6,7 +6,6 @@
 - 🔐 Explorando o vasto campo de testes de penetração (pentest) para fortalecer a segurança online.
 
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=devgabrielcerqueira&show_icons=true&theme=radical)
-![Gabriel Cerqueira](https://github-readme-stats.vercel.app/api/top-langs/?username=devgabrielcerqueira&theme=blue-green)
 
 #### 🌐 Linguagens e Ferramentas:
 
