@@ -23,7 +23,7 @@ Apaixonado por tecnologia, um amor que carrego desde de minha infância e preten
 #### 📫 Como me encontrar:
 
 - 🌐 [LinkedIn](link_do_linkedin)
-- 📧 [Email](devgabrielcerqueira@gmail.com)
+- 📧 [devgabrielcerqueira@gmail.com]
 
 #### 🚀 Sempre buscando aprender e evoluir. Vamos codificar o futuro juntos! 🚀
 
