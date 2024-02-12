@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Gabriel Cerqueira 🖐️
 #### 🚀 O que estou fazendo agora?
 
-- 📚 Atualmente, estou cursando Sistema de Informação na facimp-wydem.
+- 📚 Atualmente, estou cursando Sistema de Informação na Facimp-wyden.
 - 💻 Estou aprimorando minhas habilidades em desenvolvimento web e também em python com automação em tarefas.
 - 🔐 Explorando o vasto campo de testes de penetração (pentest) para fortalecer a segurança online.
 
